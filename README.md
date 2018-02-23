@@ -15,6 +15,10 @@ if ($drupalFinder->locateRoot(getcwd())) {
 }
 ```
 
+## Usage on Drupal 7 sites not built with composer
+
+Change the filename d7-no-composer.composer.json to composer.json.
+
 ## Examples
 
 - [Drupal Console Launcher](https://github.com/hechoendrupal/drupal-console-launcher)
